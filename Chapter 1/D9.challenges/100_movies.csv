@@ -1,0 +1,101 @@
+,Names,Director names,Actors,Dates,genres,Votes,Durations,Ratings,Metascores,Gross
+1,The Godfather,Francis Ford Coppola,"Marlon Brando, Al Pacino, James Caan, Diane Keaton",1972,"Crime, Drama",1724932,175,9.2,100,134.97
+2,The Godfather: Part II,Francis Ford Coppola,"Al Pacino, Robert De Niro, Robert Duvall, Diane Keaton",1974,"Crime, Drama",1196983,202,9.0,90,57.3
+3,The Dark Knight,Christopher Nolan,"Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine",2008,"Action, Crime, Drama",2451875,152,9.0,84,534.86
+4,Pulp Fiction,Quentin Tarantino,"John Travolta, Uma Thurman, Samuel L. Jackson, Bruce Willis",1994,"Crime, Drama",1930917,154,8.9,94,107.93
+5,Heat,Michael Mann,"Al Pacino, Robert De Niro, Val Kilmer, Jon Voight",1995,"Action, Crime, Drama",616084,170,8.2,76,67.44
+6,Léon: The Professional,Luc Besson,"Jean Reno, Gary Oldman, Natalie Portman, Danny Aiello",1994,"Action, Crime, Drama",1095138,110,8.5,64,19.5
+7,Gladiator,Ridley Scott,"Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed",2000,"Action, Adventure, Drama",1415738,155,8.5,67,187.71
+8,Schindler's List,Steven Spielberg,"Liam Neeson, Ralph Fiennes, Ben Kingsley, Caroline Goodall",1993,"Biography, Drama, History",1280450,195,8.9,94,96.9
+9,Titanic,James Cameron,"Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates",1997,"Drama, Romance",1107169,194,7.8,75,659.33
+10,Crash,Paul Haggis,"Don Cheadle, Sandra Bullock, Thandiwe Newton, Karina Arroyave",2004,"Crime, Drama, Thriller",428886,112,7.7,66,54.58
+11,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,"Elijah Wood, Ian McKellen, Orlando Bloom, Sean Bean",2001,"Action, Adventure, Drama",1749991,178,8.8,92,315.54
+12,Saving Private Ryan,Steven Spielberg,"Tom Hanks, Matt Damon, Tom Sizemore, Edward Burns",1998,"Drama, War",1307718,169,8.6,91,216.54
+13,The Lord of the Rings: The Return of the King,Peter Jackson,"Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom",2003,"Action, Adventure, Drama",1728707,201,8.9,94,377.85
+14,The Departed,Martin Scorsese,"Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg",2006,"Action, Crime, Drama",1253948,151,8.5,85,132.38
+15,The Lord of the Rings: The Two Towers,Peter Jackson,"Elijah Wood, Ian McKellen, Viggo Mortensen, Orlando Bloom",2002,"Action, Adventure, Drama",1562675,179,8.7,87,342.55
+16,The Shawshank Redemption,Frank Darabont,"Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",1994,Drama,2502068,142,9.3,80,28.34
+17,Black Swan,Darren Aronofsky,"Natalie Portman, Mila Kunis, Vincent Cassel, Winona Ryder",2010,"Drama, Thriller",730603,108,8.0,79,106.95
+18,Fight Club,David Fincher,"Brad Pitt, Edward Norton, Meat Loaf, Zach Grenier",1999,Drama,1968404,139,8.8,66,37.03
+19,No Country for Old Men,Ethan Coen,"Joel Coen, Tommy Lee Jones, Javier Bardem, Josh Brolin",2007,"Crime, Drama, Thriller",912945,122,8.1,91,74.28
+20,Children of Heaven,Majid Majidi,"Mohammad Amir Naji, Amir Farrokh Hashemian, Bahare Seddiqi, Nafise Jafar-Mohammadi",1997,"Drama, Family, Sport",71289,89,8.3,77,0.93
+21,Once Upon a Time... In Hollywood,Quentin Tarantino,"Leonardo DiCaprio, Brad Pitt, Margot Robbie, Emile Hirsch",2019,"Comedy, Drama",654607,161,7.6,83,142.5
+22,Raging Bull,Martin Scorsese,"Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent",1980,"Biography, Drama, Sport",338671,129,8.2,89,23.38
+23,Stalag 17,Billy Wilder,"William Holden, Don Taylor, Otto Preminger, Robert Strauss",1953,"Comedy, Drama, War",54489,120,8.0,84,
+24,The Green Mile,Frank Darabont,"Tom Hanks, Michael Clarke Duncan, David Morse, Bonnie Hunt",1999,"Crime, Drama, Fantasy",1217998,189,8.6,61,136.8
+25,Mulholland Drive,David Lynch,"Naomi Watts, Laura Harring, Justin Theroux, Jeanne Bates",2001,"Drama, Mystery, Thriller",340936,147,7.9,85,7.22
+26,Million Dollar Baby,Clint Eastwood,"Hilary Swank, Clint Eastwood, Morgan Freeman, Jay Baruchel",2004,"Drama, Sport",662826,132,8.1,86,100.49
+27,Dog Day Afternoon,Sidney Lumet,"Al Pacino, John Cazale, Penelope Allen, Sully Boyar",1975,"Biography, Crime, Drama",247798,125,8.0,86,50.0
+28,The Pianist,Roman Polanski,"Adrien Brody, Thomas Kretschmann, Frank Finlay, Emilia Fox",2002,"Biography, Drama, Music",780660,150,8.5,85,32.57
+29,Amores perros,Alejandro G. Iñárritu,"Emilio Echevarría, Gael García Bernal, Goya Toledo, Álvaro Guerrero",2000,"Drama, Thriller",233634,154,8.1,83,5.38
+30,1900,Bernardo Bertolucci,"Robert De Niro, Gérard Depardieu, Dominique Sanda, Francesca Bertini",1976,"Drama, History",24888,317,7.7,70,
+31,One Flew Over the Cuckoo's Nest,Milos Forman,"Jack Nicholson, Louise Fletcher, Michael Berryman, Peter Brocco",1975,Drama,962660,133,8.7,84,112.0
+32,Gran Torino,Clint Eastwood,"Clint Eastwood, Bee Vang, Christopher Carley, Ahney Her",2008,Drama,747920,116,8.1,72,148.1
+33,Forrest Gump,Robert Zemeckis,"Tom Hanks, Robin Wright, Gary Sinise, Sally Field",1994,"Drama, Romance",1931299,142,8.8,82,330.25
+34,American Beauty,Sam Mendes,"Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley",1999,Drama,1112711,122,8.3,84,130.1
+35,The Shining,Stanley Kubrick,"Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers",1980,"Drama, Horror",957438,146,8.4,66,44.02
+36,Papillon,Franklin J. Schaffner,"Steve McQueen, Dustin Hoffman, Victor Jory, Don Gordon",1973,"Biography, Crime, Drama",127118,151,8.0,58,53.27
+37,Eyes Wide Shut,Stanley Kubrick,"Tom Cruise, Nicole Kidman, Todd Field, Sydney Pollack",1999,"Drama, Mystery, Thriller",321963,159,7.4,68,55.69
+38,Spotlight,Tom McCarthy,"Mark Ruffalo, Michael Keaton, Rachel McAdams, Liev Schreiber",2015,"Biography, Crime, Drama",447553,129,8.1,93,45.06
+39,Scarface,Brian De Palma,"Al Pacino, Michelle Pfeiffer, Steven Bauer, Mary Elizabeth Mastrantonio",1983,"Crime, Drama",787681,170,8.3,65,45.6
+40,Dances with Wolves,Kevin Costner,"Kevin Costner, Mary McDonnell, Graham Greene, Rodney A. Grant",1990,"Adventure, Drama, Western",252665,181,8.0,72,184.21
+41,Chinatown,Roman Polanski,"Jack Nicholson, Faye Dunaway, John Huston, Perry Lopez",1974,"Drama, Mystery, Thriller",312525,130,8.2,92,8.49
+42,Gangs of New York,Martin Scorsese,"Leonardo DiCaprio, Cameron Diaz, Daniel Day-Lewis, Jim Broadbent",2002,"Crime, Drama",424265,167,7.5,72,77.81
+43,There Will Be Blood,Paul Thomas Anderson,"Daniel Day-Lewis, Paul Dano, Ciarán Hinds, Martin Stringer",2007,Drama,551865,158,8.2,93,40.22
+44,The Revenant,Alejandro G. Iñárritu,"Leonardo DiCaprio, Tom Hardy, Will Poulter, Domhnall Gleeson",2015,"Action, Adventure, Drama",753115,156,8.0,76,183.64
+45,Braveheart,Mel Gibson,"Mel Gibson, Sophie Marceau, Patrick McGoohan, Angus Macfadyen",1995,"Biography, Drama, History",996188,178,8.3,68,75.6
+46,21 Grams,Alejandro G. Iñárritu,"Sean Penn, Benicio Del Toro, Naomi Watts, Danny Huston",2003,"Crime, Drama, Thriller",231891,124,7.6,70,16.29
+47,Se7en,David Fincher,"Morgan Freeman, Brad Pitt, Kevin Spacey, Andrew Kevin Walker",1995,"Crime, Drama, Mystery",1536995,127,8.6,65,100.13
+48,Downfall,Oliver Hirschbiegel,"Bruno Ganz, Alexandra Maria Lara, Ulrich Matthes, Juliane Köhler",2004,"Biography, Drama, History",344129,156,8.2,82,5.51
+49,Mystic River,Clint Eastwood,"Sean Penn, Tim Robbins, Kevin Bacon, Emmy Rossum",2003,"Crime, Drama, Mystery",440815,138,7.9,84,90.14
+50,Once Upon a Time in America,Sergio Leone,"Robert De Niro, James Woods, Elizabeth McGovern, Treat Williams",1984,"Crime, Drama",333574,229,8.3,75,5.32
+51,Doctor Zhivago,David Lean,"Omar Sharif, Julie Christie, Geraldine Chaplin, Rod Steiger",1965,"Drama, Romance, War",73461,197,8.0,69,111.72
+52,Taxi Driver,Martin Scorsese,"Robert De Niro, Jodie Foster, Cybill Shepherd, Albert Brooks",1976,"Crime, Drama",770887,114,8.2,94,28.26
+53,Serpico,Sidney Lumet,"Al Pacino, John Randolph, Jack Kehoe, Biff McGuire",1973,"Biography, Crime, Drama",117938,130,7.7,87,29.8
+54,A Separation,Asghar Farhadi,"Payman Maadi, Leila Hatami, Sareh Bayat, Shahab Hosseini",2011,Drama,234209,123,8.3,95,7.1
+55,Jaws,Steven Spielberg,"Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary",1975,"Adventure, Thriller",569814,124,8.0,87,260.0
+56,The Prestige,Christopher Nolan,"Christian Bale, Hugh Jackman, Scarlett Johansson, Michael Caine",2006,"Drama, Mystery, Sci-Fi",1259659,130,8.5,66,53.09
+57,The Grand Budapest Hotel,Wes Anderson,"Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody",2014,"Adventure, Comedy, Crime",756418,99,8.1,88,59.1
+58,Goodfellas,Martin Scorsese,"Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco",1990,"Biography, Crime, Drama",1083403,146,8.7,90,46.84
+59,Carlito's Way,Brian De Palma,"Al Pacino, Sean Penn, Penelope Ann Miller, John Leguizamo",1993,"Crime, Drama, Thriller",210430,144,7.9,65,36.95
+60,The Bridge on the River Kwai,David Lean,"William Holden, Alec Guinness, Jack Hawkins, Sessue Hayakawa",1957,"Adventure, Drama, War",212841,161,8.1,87,44.91
+61,Green Book,Peter Farrelly,"Viggo Mortensen, Mahershala Ali, Linda Cardellini, Sebastian Maniscalco",2018,"Biography, Comedy, Drama",437044,130,8.2,69,85.08
+62,Little Miss Sunshine,Jonathan Dayton,"Valerie Faris, Steve Carell, Toni Collette, Greg Kinnear",2006,"Comedy, Drama",458700,101,7.8,80,59.89
+63,On the Waterfront,Elia Kazan,"Marlon Brando, Karl Malden, Lee J. Cobb, Rod Steiger",1954,"Crime, Drama, Thriller",149730,108,8.1,91,9.6
+64,Interstellar,Christopher Nolan,"Matthew McConaughey, Anne Hathaway, Jessica Chastain, Mackenzie Foy",2014,"Adventure, Drama, Sci-Fi",1650190,169,8.6,74,188.02
+65,Birdman or (The Unexpected Virtue of Ignorance),Alejandro G. Iñárritu,"Michael Keaton, Zach Galifianakis, Edward Norton, Andrea Riseborough",2014,"Comedy, Drama",606095,119,7.7,87,42.34
+66,Apocalypto,Mel Gibson,"Gerardo Taracena, Raoul Max Trujillo, Dalia Hernández, Rudy Youngblood",2006,"Action, Adventure, Drama",302163,139,7.8,68,50.87
+67,"Three Billboards Outside Ebbing, Missouri",Martin McDonagh,"Frances McDormand, Woody Harrelson, Sam Rockwell, Caleb Landry Jones",2017,"Comedy, Crime, Drama",473258,115,8.1,88,54.51
+68,City of God,Fernando Meirelles,"Kátia Lund, Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele",2002,"Crime, Drama",727597,130,8.6,79,7.56
+69,Gone with the Wind,Victor Fleming,"George Cukor, Sam Wood, Clark Gable, Vivien Leigh",1939,"Drama, History, Romance",303715,238,8.1,97,198.68
+70,Requiem for a Dream,Darren Aronofsky,"Ellen Burstyn, Jared Leto, Jennifer Connelly, Marlon Wayans",2000,Drama,802609,102,8.3,68,3.64
+71,12 Years a Slave,Steve McQueen,"Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender, Brad Pitt",2013,"Biography, Drama, History",670664,134,8.1,96,56.67
+72,Brokeback Mountain,Ang Lee,"Jake Gyllenhaal, Heath Ledger, Michelle Williams, Randy Quaid",2005,"Drama, Romance",341956,134,7.7,87,83.04
+73,Citizen Kane,Orson Welles,"Orson Welles, Joseph Cotten, Dorothy Comingore, Agnes Moorehead",1941,"Drama, Mystery",426114,119,8.3,100,1.59
+74,A Very Long Engagement,Jean-Pierre Jeunet,"Audrey Tautou, Gaspard Ulliel, Jodie Foster, Dominique Pinon",2004,"Drama, Mystery, Romance",72535,133,7.6,76,6.17
+75,The Godfather: Part III,Francis Ford Coppola,"Al Pacino, Diane Keaton, Andy Garcia, Talia Shire",1990,"Crime, Drama",378643,162,7.6,60,66.67
+76,The Wolf of Wall Street,Martin Scorsese,"Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey",2013,"Biography, Comedy, Crime",1287728,180,8.2,75,116.9
+77,The Curious Case of Benjamin Button,David Fincher,"Brad Pitt, Cate Blanchett, Tilda Swinton, Julia Ormond",2008,"Drama, Fantasy, Romance",620296,166,7.8,70,127.51
+78,In the Mood for Love,Kar-Wai Wong,"Tony Chiu-Wai Leung, Maggie Cheung, Siu Ping-Lam, Tung Cho 'Joe' Cheung",2000,"Drama, Romance",139293,94,8.1,85,2.73
+79,The Legend of 1900,Giuseppe Tornatore,"Tim Roth, Pruitt Taylor Vince, Mélanie Thierry, Bill Nunn",1998,"Drama, Music, Romance",62047,169,8.1,58,0.26
+80,A Beautiful Mind,Ron Howard,"Russell Crowe, Ed Harris, Jennifer Connelly, Christopher Plummer",2001,"Biography, Drama",889594,135,8.2,72,170.74
+81,Gone Girl,David Fincher,"Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry",2014,"Drama, Mystery, Thriller",921476,149,8.1,79,167.77
+82,The Silence of the Lambs,Jonathan Demme,"Jodie Foster, Anthony Hopkins, Lawrence A. Bonney, Kasi Lemmons",1991,"Crime, Drama, Thriller",1347825,118,8.6,85,130.74
+83,The Sixth Sense,M. Night Shyamalan,"Bruce Willis, Haley Joel Osment, Toni Collette, Olivia Williams",1999,"Drama, Mystery, Thriller",949985,107,8.1,64,293.51
+84,Babel,Alejandro G. Iñárritu,"Brad Pitt, Cate Blanchett, Gael García Bernal, Mohamed Akhzam",2006,Drama,296981,143,7.4,69,34.3
+85,The Hateful Eight,Quentin Tarantino,"Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh, Walton Goggins",2015,"Crime, Drama, Mystery",559479,168,7.8,68,54.12
+86,The Sting,George Roy Hill,"Paul Newman, Robert Redford, Robert Shaw, Charles Durning",1973,"Comedy, Crime, Drama",252549,129,8.3,83,159.6
+87,12 Angry Men,Sidney Lumet,"Henry Fonda, Lee J. Cobb, Martin Balsam, John Fiedler",1957,"Crime, Drama",739030,96,9.0,96,4.36
+88,Slumdog Millionaire,Danny Boyle,"Loveleen Tandan, Dev Patel, Freida Pinto, Saurabh Shukla",2008,"Drama, Romance",822296,120,8.0,84,141.32
+89,Malena,Giuseppe Tornatore,"Monica Bellucci, Giuseppe Sulfaro, Luciano Federico, Matilde Piana",2000,"Drama, Romance, War",97772,108,7.5,54,3.45
+90,Casablanca,Michael Curtiz,"Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains",1942,"Drama, Romance, War",547767,102,8.5,100,1.02
+91,American History X,Tony Kaye,"Edward Norton, Edward Furlong, Beverly D'Angelo, Jennifer Lien",1998,Drama,1075719,119,8.5,62,6.72
+92,Inglourious Basterds,Quentin Tarantino,"Brad Pitt, Diane Kruger, Eli Roth, Mélanie Laurent",2009,"Adventure, Drama, War",1351067,153,8.3,69,120.54
+93,Catch Me If You Can,Steven Spielberg,"Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen",2002,"Biography, Crime, Drama",902043,141,8.1,75,164.62
+94,Eternal Sunshine of the Spotless Mind,Michel Gondry,"Jim Carrey, Kate Winslet, Tom Wilkinson, Gerry Robert Byrne",2004,"Drama, Romance, Sci-Fi",957470,108,8.3,89,34.4
+95,Oldboy,Park Chan-Wook,"Choi Min-sik, Yoo Ji-Tae, Kang Hye-jeong, Kim Byeong-Ok",2003,"Action, Drama, Mystery",547741,120,8.4,77,0.71
+96,La La Land,Damien Chazelle,"Ryan Gosling, Emma Stone, Rosemarie DeWitt, J.K. Simmons",2016,"Comedy, Drama, Music",545589,128,8.0,94,151.1
+97,A Clockwork Orange,Stanley Kubrick,"Malcolm McDowell, Patrick Magee, Michael Bates, Warren Clarke",1971,"Crime, Sci-Fi",793100,136,8.3,77,6.21
+98,The Shape of Water,Guillermo del Toro,"Sally Hawkins, Octavia Spencer, Michael Shannon, Doug Jones",2017,"Drama, Fantasy, Romance",397711,123,7.3,87,63.86
+99,JFK,Oliver Stone,"Kevin Costner, Gary Oldman, Jack Lemmon, Walter Matthau",1991,"Drama, History, Thriller",149897,189,8.0,72,70.41
+100,Prisoners,Denis Villeneuve,"Hugh Jackman, Jake Gyllenhaal, Viola Davis, Melissa Leo",2013,"Crime, Drama, Mystery",650606,153,8.1,70,61.0
