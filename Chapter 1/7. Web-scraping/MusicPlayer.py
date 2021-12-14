@@ -12,17 +12,17 @@ from selenium.webdriver.common.action_chains import ActionChains
 #chrome_options = Options()
 #chrome_options.add_argument('load-extension=')
 #driver = webdriver.Chrome(options=chrome_options)
-driver = webdriver.Chrome("./chromedriver.exe")
+driver = webdriver.Chrome(executable_path='C:\programexe\chromedriver.exe')
 driver.create_options()
 
 presence = EC.presence_of_element_located
 visible = EC.visibility_of_element_located
 
-'''
+
 driver = webdriver.Chrome(chrome_options=chrome_options)
 driver.create_options()
 driver.get("https://www.youtube.com/watch?v=SaZfg_5_i5A&list=PLxDvxeaAQ9csnc7DNA9wMUYPCojrBUFVH")
-'''
+
 
 #Reference to the buttons we are using
 playVideo = "#ytp-id-46"
