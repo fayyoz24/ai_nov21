@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from PIL import Image
-import matplotlib.pyplot as plt
+import plotly.express as px
 dataFrameSerialization = "legacy"
 
 
