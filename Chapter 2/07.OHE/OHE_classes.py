@@ -1,4 +1,5 @@
 
+from posixpath import split
 import pandas as pd
 from sklearn.ensemble import AdaBoostRegressor
 from sklearn.ensemble import RandomForestRegressor
@@ -17,33 +18,31 @@ class Tree_algorithms:
         df[['sex', 'smoker', 'region']] = ord.fit_transform(df[['sex', 'smoker', 'region']])
 
         return df
-        
-    def dec_trees():
+
+    def split():
         df = Tree_algorithms.preprocess()
-        y = df['smoker']
-        X = df.drop(['smoker'], axis=1)
+        X, y = df.iloc[:, :6], df.iloc[:, 6]
 
         X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=0)
+        return list(X_train, X_test, y_train, y_test)
 
+
+    def dec_trees():
+        split = Tree_algorithms.split()
         dctr = DecisionTreeRegressor(random_state=0)
-        dctr.fit(X_train, y_train)
+        dctr.fit(split[0], split[2])
 
-        train = dctr.score(X_train, y_train)
-        test = dctr.score(X_test, y_test)
+        train = dctr.score(split[0], split[2])
+        test = dctr.score(split[1], split[3])
         return (f'training accuracy:{train}\n testing accuracy: {test}')
     
     def rand_forest():
-        df = Tree_algorithms.preprocess()
-        y = df['smoker']
-        X = df.drop(['smoker'], axis=1)
-
-        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=0)
-
+        split = Tree_algorithms.split()
         randf = RandomForestRegressor(random_state=0)
         randf.fit(X_train, y_train)
 
-        train = randf.score(X_train, y_train)
-        test = randf.score(X_test, y_test)
+        train = randf.score(split[0], split[2])
+        test = randf.score(split[1], split[3])
         return (f'training accuracy:{train}\n testing accuracy: {test}')
         
     def ext_rand_tress():
@@ -56,8 +55,8 @@ class Tree_algorithms:
         ex_rand_tr = ExtraTreesRegressor(random_state=0)
         ex_rand_tr.fit(X_train, y_train)
 
-        train = ex_rand_tr.score(X_train, y_train)
-        test = ex_rand_tr.score(X_test, y_test)
+        train = ex_rand_tr.score(split[0], split[2]
+        test = ex_rand_tr.score(split[1], split[3])
         return (f'training accuracy:{train}\n testing accuracy: {test}')
         
     def adaboosting():
@@ -70,8 +69,8 @@ class Tree_algorithms:
         adab = AdaBoostRegressor(random_state=0)
         adab.fit(X_train, y_train)
 
-        train = adab.score(X_train, y_train)
-        test = adab.score(X_test, y_test)
+        train = adab.score(split[0], split[2]
+        test = adab.score(split[1], split[3])
         return (f'training accuracy:{train}\n testing accuracy: {test}')
         
 
