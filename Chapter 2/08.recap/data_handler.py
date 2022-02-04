@@ -5,7 +5,7 @@ from sklearn.compose import ColumnTransformer
 
 def get_data(path):
     
-    data = pd.read_csv('.\Chapter 2\08.recap\insurance.csv')
+    data = pd.read_csv(path)
     
     x, y = data.values[:,:-1], data.values[:,-1]
     
