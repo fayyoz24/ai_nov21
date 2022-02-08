@@ -23,7 +23,7 @@ from xgboost               import XGBRegressor
 from lightgbm              import LGBMRegressor
 from catboost              import CatBoostRegressor
 
-data = pd.read_csv(r'data\london_merged.csv')
+data = pd.read_csv('./data/london_merged.csv')
 
 np.random.seed(0)
 
@@ -61,10 +61,10 @@ def data_enhancement(data):
     
     for season in data['season'].unique():
         seasonal_data =  gen_data[gen_data['season'] == season]
-        hum_std = seasonal_data['hum'].std()
-        wind_speed_std = seasonal_data['wind_speed'].std()
-        t1_std = seasonal_data['t1'].std()
-        t2_std = seasonal_data['t2'].std()
+        hum_std = seasonal_data['hum'].mean()
+        wind_speed_std = seasonal_data['wind_speed'].mean()
+        t1_std = seasonal_data['t1'].mean()
+        t2_std = seasonal_data['t2'].mean()
         
         for i in gen_data[gen_data['season'] == season].index:
             if np.random.randint(2) == 1:
