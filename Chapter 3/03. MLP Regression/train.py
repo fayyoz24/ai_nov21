@@ -20,7 +20,7 @@ epochs = 500
 loss_list = []
 for i in range(epochs):
     running_loss = 0
-    print(f'Epoch number: {i}')
+    
     x_train_batch, x_test_batch, y_train_batch, y_test_batch = to_batches(x_train, x_test, y_train, y_test, 100)
 
     for x_batch, y_batch in zip(x_train_batch, y_train_batch):
@@ -34,7 +34,7 @@ for i in range(epochs):
 
         running_loss += loss.item()
 
-    print(f'loss: {running_loss/x_train_batch.shape[0]}')
+    print(f'Epoch number: {i}, loss: {running_loss/x_train_batch.shape[0]}')
     loss_list.append(running_loss/x_train_batch.shape[0])
 
 plt.plot(loss_list)
